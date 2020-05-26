@@ -243,8 +243,8 @@
 /* 1.5 Chat */
 .chat-box .chat-content {
   background-color: #f7f7f7 !important;
-  height: 600px;
-  overflow: hidden;
+  /*height: 1600px;
+  overflow: hidden;*/
   padding-top: 25px !important; }
   .chat-box .chat-content .chat-item {
     display: inline-block;
